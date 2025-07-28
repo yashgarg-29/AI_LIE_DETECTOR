@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+pyaudio
+speechrecognition
+librosa
+scikit-learn
+tensorflow
+joblib
